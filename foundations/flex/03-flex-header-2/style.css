@@ -45,7 +45,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  /* justify-content: flex-end; */
+  flex: 1;
 }
 
 a {

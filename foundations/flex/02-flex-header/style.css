@@ -23,7 +23,6 @@ ul {
   display: flex;
   justify-content: space-between;
   gap: 8px;
-  flex: 1;
 }
 
 a {
